@@ -1,0 +1,3 @@
+essay, eng, 12
+report, sci, 12
+worksheet, math, 13
